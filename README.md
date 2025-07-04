@@ -3,3 +3,6 @@
 
 ## Primeiro Projeto
 -> Um programa simples utilizando entrada de dados e estrutura de decisão para verificar o nível do herói.
+
+## Segundo Projeto
+-> Muito parecido com o anterior, porém agora utilizando uma função para verificar o rank do herói.
