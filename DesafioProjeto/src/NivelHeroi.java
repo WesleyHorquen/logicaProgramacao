@@ -28,7 +28,7 @@ Ao final deve se exibir uma mensagem:
 */
 import java.util.Scanner;
 
-public class nivelHeroi{
+public class NivelHeroi {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
